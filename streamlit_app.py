@@ -1,4 +1,4 @@
- from operator import index
+from operator import index
 import streamlit as st
 import pandas as pd
 import pickle
